@@ -3,6 +3,25 @@ class PW
 	public void ml()
 	{
 	/// code
+public void ml()
+	{
+	/// code
+
+}
+
+
+}
+}class PW
+{
+	public void ml()
+	{
+	/// code
+public void ml()
+	{
+	/// code
+
+}
+
 
 }
 }
